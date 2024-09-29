@@ -15,3 +15,4 @@ elif first == second or first == third or second == third:
 else:
     print('0') # иначе числа не равны
 
+
